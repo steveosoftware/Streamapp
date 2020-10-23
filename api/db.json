@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Great Stream",
+      "id": 1
+    },
+    {
+      "title": "Your Stream",
+      "description": "Average Stream",
+      "id": 2
+    },
+    {
+      "title": "History Nav Stream",
+      "description": "Edited Programmatic navigation test",
+      "id": 5
+    },
+    {
+      "title": "Component Reuse",
+      "description": "Refactoring components, StreamForm boom ",
+      "id": 6
+    },
+    {
+      "title": "Edit me",
+      "description": "Delete me",
+      "userId": "115941910089757031094",
+      "id": 7
+    },
+    {
+      "title": "Yay",
+      "description": "woot woot",
+      "userId": "115941910089757031094",
+      "id": 8
+    }
+  ]
+}
